@@ -1,0 +1,3 @@
+node_modules
+MONGODB_CRED.env
+config.bat
